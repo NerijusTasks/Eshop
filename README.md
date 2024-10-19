@@ -9,7 +9,7 @@ This project is focused on creating an e-commerce (eshop) platform for learning 
 ## How to Build
 To build the packages, follow these steps:
 
- * Clone the repository
+ * Clone the repository  https://github.com/NerijusTasks/Eshop.git
 
 [Go to Top](#table-of-contents)
 
