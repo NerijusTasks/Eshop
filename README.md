@@ -21,11 +21,11 @@ To build the packages, follow these steps:
 
   ![CreateDatabase](https://github.com/user-attachments/assets/2d06d630-b180-40c5-b32a-21169f1287ae)
 
-  * Run App
+* Run App
 
     ![AppStart](https://github.com/user-attachments/assets/3d2cc59a-83a4-4cd7-b39a-589cbb586020)
 
-  * Success
+* Success
 
     ![Success](https://github.com/user-attachments/assets/ba0a6504-50b6-47fe-8924-e3f2ffb1ed4e)
 
